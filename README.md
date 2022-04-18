@@ -1,11 +1,11 @@
 # Building a Beer Recommender using Bandit Algorithms
-This repository strives to build a beer recommender using both collaborative filtering and bandit algorithm, and subsequently evaluate the best performing technique.
+This project strives to build a beer recommender using both collaborative filtering and bandit algorithm, and subsequently evaluate the best performing technique.
 
 ## Project Resources
 For more project details, please refer to the following resources linked here:
-1. [Project Report](https://drive.google.com/file/d/142UE04CXfemnxwKtUR04FCIPo1MqYOpk/view?usp=sharing)
-2. [Project Slides](https://drive.google.com/file/d/1xDZEIGngkUdlN7B6H4NPmgnPc4bVygAH/view?usp=sharing)
-3. [Project Video](https://drive.google.com/file/d/18QhGeX-ByKmt10cPkSSE4NvPk8b4h9fF/view?usp=sharing)
+1. [Project Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gohjiayi/beer_recommender/master/docs/Beer_Recommender_Report.pdf)
+2. [Project Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gohjiayi/beer_recommender/master/docs/Beer_Recommender_Slides.pdf)
+3. [Project Video](https://youtu.be/jZ1umEd4Jtg)
 
 ## Project Directory Structure
 ```
